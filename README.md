@@ -1,2 +1,2 @@
 # Splitwise
-simple APIs to replicate splitwise product
+simple APIs for splitwise like functions
